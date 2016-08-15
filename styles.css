@@ -24,3 +24,7 @@ img {
 .item:hover .image-container {
 	transform: scale(1.05);
 }
+
+.will-change {
+	transform: translateZ(0);
+}
